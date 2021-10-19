@@ -69,4 +69,4 @@ The project directory structure is as follows:
 
 Click Here to download [APK] and try it yourself (https://drive.google.com/drive/folders/1Lv_FvlojBp54D-sREfxKCiPncRwl4i7D?usp=sharing) <br>
 
-## Thank you So Much for trying this app
+## Thank you So Much for trying this app if you loved it do tell
